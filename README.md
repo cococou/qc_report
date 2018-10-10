@@ -26,6 +26,6 @@ python3 ../sample_rst.py -r ..
 
 ## example/report
 
-![pic1.png]
+![image](pic1.png)
 
-![pic2.png]
+![image](pic2.png)
