@@ -1,0 +1,62 @@
+
+PB2017082901F
+=============
+
+QC report of bam
+----------------
+
+======================  =======================
+参数                     值
+======================  =======================
+total bases             NA
+total reads             3720118
+reads length            [30, 151]
+insert size median      201
+Q20 rate                96.89%
+Q30 rate                96.21%
+GC rate                 42.43%
+GC align rate           42.25%
+GC unique rate          42.19%
+mismatch rate           0.00%
+deletion rate           0.04%
+insert rate             0.03%
+gap rate                0.00%
+mapping quality mean    59.09010386229684
+mapping rate            99.60%
+unique mapping rate     99.33%
+duplication rate        43.87%
+PEMap rate              99.52%
+UniqueMap rate          99.33%
+======================  =======================
+
+
+QC report of targeted bam
+-------------------------
+
+==================================  =======================
+参数                                 值
+==================================  =======================
+target length                       3224
+coverage rate                       97.36%
+target region base's mean depth     612.06
+more than 20% mean depth rate       96.22%
+more than 50% mean depth rate       88.80%
+==================================  =======================
+
+位置QC质量分布图
+-----------------
+.. image:: _static/PB2017082901M_quality.png
+
+位置ATCG含量分布图
+-------------------
+.. image:: _static/PB2017082901M_gc.png
+
+insert size图
+---------------
+.. image:: _static/PB2017082901M_insert.png
+
+region深度热度图
+------------------
+.. image:: _static/PB2017082901M_target.png
+
+
